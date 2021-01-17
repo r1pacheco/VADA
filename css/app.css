@@ -4,6 +4,10 @@ body, html {
   padding-top: 10px;
 }
 
+div {
+ margin: 0; 
+}
+
 h3 {
   outline: 0;
 }
