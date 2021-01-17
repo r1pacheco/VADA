@@ -1,0 +1,46 @@
+body, html {
+  background: linear-gradient(45deg, #19456b 10%, #16c79a);
+  height: 100%;
+  padding-top: 10px;
+}
+
+h3 {
+  outline: 0;
+}
+
+.navbar-brand {
+  font-family: 'Syncopate', sans-serif;
+  font-size: 2rem;
+}
+
+#videos {
+  position: relative;
+  width: 1080px;
+  height: 700px;
+}
+
+#otEmbedContainer {
+  position: relative;
+  width: 1080px;
+  height: 700px;
+  border: 3px solid #f8f1f1;
+  border-radius: 5px;
+}
+
+.end-btn {
+  position: absolute;
+  bottom: 20px;
+  left: 44%;
+}
+
+.text-editor {
+
+}
+
+.text-body {
+  line-height: 1.5;
+  border: 1px solid #ccc;
+  box-shadow: 3px 3px 3px #f37121;
+  border-radius: 5px;
+  resize: none;
+}
